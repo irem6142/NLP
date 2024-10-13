@@ -1,0 +1,1 @@
+### Bu repoda, metin verilerini işlemek ve sınıflandırmak için kullanılan Doğal Dil İşleme (Natural Language Processing - NLP) tekniklerini içeren bir proje bulunmaktadır. Proje kapsamında TF-IDF, Count Vectorizer ve n-gram yöntemleri ile makine öğrenimi modelleri kullanılmıştır.
